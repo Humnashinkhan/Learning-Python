@@ -45,3 +45,9 @@ print("The value of", a, "+", b, "is:", a + b)
 print("The value of", a, "-", b, "is:", a - b)
 print("The value of", a, "*", b, "is:", a * b)
 print("The value of", a, "/", b, "is:", a / b)
+
+
+x = "1"
+y = "4"
+
+print(int(x) + int(y))        / Explicit type conversion
