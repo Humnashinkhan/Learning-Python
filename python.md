@@ -11,3 +11,7 @@ Types of Type Casting
 
 2. Explicit Type Casting (Manual)
    You convert data types using functions.
+
+## Taking User Input in Python
+In Python, you take input from the user using the input() function.
+## input() lets the user enter data from keyboard

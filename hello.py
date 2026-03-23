@@ -50,4 +50,9 @@ print("The value of", a, "/", b, "is:", a / b)
 x = "1"
 y = "4"
 
-print(int(x) + int(y))        / Explicit type conversion
+print(int(x) + int(y))       
+
+
+z = input("Enter your name: ")
+print("My name is", z)
+
