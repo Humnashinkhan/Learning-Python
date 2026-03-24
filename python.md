@@ -15,3 +15,9 @@ Types of Type Casting
 ## Taking User Input in Python
 In Python, you take input from the user using the input() function.
 ## input() lets the user enter data from keyboard
+
+## String -
+    Anything that you enclose that you enclose between single and double quotation considered as String, 
+    if our string has multiline so we can create them using tripple single and double quote.
+    - Strings are immutable.
+    

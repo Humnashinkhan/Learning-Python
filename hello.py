@@ -56,3 +56,6 @@ print(int(x) + int(y))
 z = input("Enter your name: ")
 print("My name is", z)
 
+# Length of string 
+c = "Humnashin"
+print(len(c))
