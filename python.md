@@ -21,3 +21,23 @@ In Python, you take input from the user using the input() function.
     if our string has multiline so we can create them using tripple single and double quote.
     - Strings are immutable.
     
+## Loop
+   a loop is used to repeat a block of code multiple times. Instead of writing the same code again and again, you use a loop.
+
+Python mainly has 2 types of loops:
+
+1. for loop
+2. while loop
+
+1. For Loop
+   Used when you know how many times to repeat
+
+2. While Loop
+   Used when you repeat until a condition becomes false
+
+## Loop Control Statements
+1. break: 
+    Stops the loop completely
+
+2. continue:
+   Skips current iteration
