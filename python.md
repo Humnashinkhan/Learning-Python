@@ -41,3 +41,10 @@ Python mainly has 2 types of loops:
 
 2. continue:
    Skips current iteration
+
+## Funtion
+function is a Reusable block of code that perform a specific task whenever it is called. 
+  There are two type of function
+1) Built-in function
+2) User defined function
+
