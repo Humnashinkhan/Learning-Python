@@ -59,3 +59,11 @@ print("My name is", z)
 # Length of string 
 c = "Humnashin"
 print(len(c))
+
+
+ a = 1                # a is an integer 
+ b =  5.77           # b is an floating point number 
+ c = "Humnashin"     #  c is an string 
+ d = true            # d is a boolean variable
+
+ e = none           # e is a none type variable 
